@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\Payroll\bin\Debug\Payroll.exe
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\Payroll\bin\Debug\Payroll.pdb
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\Payroll\obj\x86\Debug\Payroll.pdb

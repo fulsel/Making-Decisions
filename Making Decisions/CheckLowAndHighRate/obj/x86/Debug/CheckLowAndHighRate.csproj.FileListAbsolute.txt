@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.exe
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.pdb
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\CheckLowAndHighRate\obj\x86\Debug\CheckLowAndHighRate.exe
+C:\Users\eahscs\Documents\GitHub\Making-Decisions\Making Decisions\CheckLowAndHighRate\obj\x86\Debug\CheckLowAndHighRate.pdb
